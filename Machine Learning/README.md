@@ -1,14 +1,6 @@
 # Capstone Machine Learning
 A repository containing the source code for the ML portion and models of our caption project: Cassava Disease Detection
 
-# Machine Learning Deployment for Cassava Classification
-Author:
-* (ML) M2004F0373 - Nicholas Chang - Institut Teknologi Sepuluh Nopember
-* (ML) M2288G2454 - Juwono - Universitas Pamulang
-* (MD) A2012G1211 - Muh Nur Syahbanul Chairul - Universitas Telkom
-* (CC) C2444F3049 - Ahmad Safrizal  - Universitas Ivet
-* (CC) C7123G1562 - Awang Syahsiah Adyatma  - Politeknik Elektronika Negeri Surabaya
-
 # System Overview
 Making a machine learning model by using Convolutional Neural Network for image classification
 
