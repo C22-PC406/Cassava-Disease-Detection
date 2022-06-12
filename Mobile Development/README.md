@@ -1,4 +1,4 @@
-# Capstone Machine Learning
+# Capstone Mobile Development
 A repository containing the source code for the MD portion and apk of our caption project: Cassava Disease Detection
 
 # Step-by-step Guide
