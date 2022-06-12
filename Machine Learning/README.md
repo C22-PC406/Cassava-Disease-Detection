@@ -10,8 +10,7 @@ Making a machine learning model by using Convolutional Neural Network for image 
 	* Numpy (1.22.3)
 	* Matplotlib (3.5.2)
 	* Python (3.9.12)
-2. Download the Dataset
-	* Dataset Link: https://www.kaggle.com/competitions/cassava-disease/overview/description
+2. Download the [Dataset](https://www.kaggle.com/competitions/cassava-disease/overview/description)
 3. Data Cleaning and Preprocessing
 	* Load data into tf.Dataset
 	* Data visualization
