@@ -8,6 +8,9 @@ This is a repository containing our bangkit capstone project, where we made a pr
 * (CC) C2444F3049 - Ahmad Safrizal  - Universitas Ivet
 * (CC) C7123G1562 - Awang Syahsiah Adyatma  - Politeknik Elektronika Negeri Surabaya
 
+# Dataset
+https://www.kaggle.com/competitions/cassava-disease/overview/description
+
 # Documentation
 * [Machine Learning](https://github.com/C22-PC406/Cassava-Disease-Detection/tree/main/Machine%20Learning)
 * [Cloud Computing](https://github.com/C22-PC406/Cassava-Disease-Detection/tree/main/backend)
